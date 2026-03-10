@@ -14,18 +14,18 @@ Tenho grande interesse por tecnologia e, quanto mais me aprofundo nessa área, m
 
 ## 🤖 Liguagens e tecnologias que já utilizei
 
-<img style="text-align:left; padding-right:10px; height:30px;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img style="padding-right:10px; height:30px;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="SASS" title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Tailwind" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Cypress" title="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Ansible" title="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="FastApi" title="FastApi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="SASS" title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Tailwind" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Cypress" title="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Ansible" title="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="FastApi" title="FastApi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
