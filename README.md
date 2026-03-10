@@ -15,7 +15,7 @@ Tenho grande interesse por tecnologia e, quanto mais me aprofundo nessa área, m
 ## 🤖 Liguagens e tecnologias que já utilizei
 
 <img style="text-align:left; padding-right:10px; height:30px;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img style="text-align:left; padding-right:10px; height:30px;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img style="padding-right:10px; height:30px;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img style="text-align:left; padding-right:10px; height:30px;" alt="SASS" title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img style="text-align:left; padding-right:10px; height:30px;" alt="Tailwind" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img style="text-align:left; padding-right:10px; height:30px;" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
