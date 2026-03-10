@@ -28,4 +28,6 @@ Tenho grande interesse por tecnologia e, quanto mais me aprofundo nessa área, m
 <img align="left" style="padding-right:10px; height:30px;" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" style="padding-right:10px; height:30px;" alt="FastApi" title="FastApi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 <img align="left" style="padding-right:10px; height:30px;" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" style="padding-right:10px; height:30px;" alt="Arduino" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+          
           
