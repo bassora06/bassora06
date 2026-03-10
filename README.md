@@ -31,7 +31,6 @@ Tenho grande interesse por tecnologia e, quanto mais me aprofundo nessa área, m
 <img align="left" style="padding-right:10px; height:30px;" alt="Arduino" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" style="padding-right:10px; height:30px;" alt="Postgresql" title="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <br>
-<br>
 <img align="left" style="padding-right:10px; height:30px;" alt="MySql" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
 <img align="left" style="padding-right:10px; height:30px;" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
