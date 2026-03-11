@@ -12,6 +12,13 @@ Tenho grande interesse por tecnologia e, quanto mais me aprofundo nessa área, m
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bassora06)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bassora-da-silva-66257125a/)
 
+## 💻📊 Linguagems mais usadas em meus projetos e meus status
+
+<div align="center">  
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bassora06&layout=compact&hide_border=true&title_color=f7f738&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassora06&layout=compact&hide_border=true&title_color=4d91ff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
 ## 🤖 Liguagens e tecnologias que já utilizei
 
 <img align="left" style="padding-right:10px; height:30px;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
